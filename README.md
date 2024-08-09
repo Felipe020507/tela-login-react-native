@@ -8,7 +8,7 @@ Um aplicativo de tela de login simples desenvolvido em React Native.
 ## Instalação
 1. Clone o repositório.
    ```bash
-   git clone https://github.com/seu-usuario/seu-aplicativo.git
+   git clone https://github.com/Felipe020507/seu-aplicativo.git
 
 ## Instale as dependências.
 npm install
